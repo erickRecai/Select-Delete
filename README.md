@@ -1,2 +1,2 @@
 # Select-Delete
-Allows temporary deletion of page elements. Deleted elements return on refresh.
+A userscript that adds simple temporary deletion of page elements. Deleted elements return on refresh.
